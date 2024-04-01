@@ -1,0 +1,63 @@
+
+body{
+    background: #111827;
+    color:white;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+#freddie-img{
+    width:100px;
+    height:100px;
+}
+
+.fullbox-class{
+    display:flex;
+    flex-direction: column;
+    background: white;
+    margin:10px 10px;
+    color:black;
+    padding: 5px 5px;
+    width:200px;
+    
+
+}
+.fullbox-class h3{
+    margin:5px;
+}
+.endorseP-class{
+    padding:10px 10px;
+    width:175px;
+    height: auto;
+    align-items: start;
+    border:gray solid 2px;
+    margin:0px;
+    
+}
+
+.delete-buttonClass{
+    
+    margin: 0px;
+}
+
+.bottom-sec{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin:0px;
+}
+
+.bottom-sec h3{
+    margin-top:3px;
+}
+
+.bonus-stuff{
+    display: flex;
+    flex-direction: row;
+    gap:10px;
+    
+}
+.bonus-stuff input{
+    width:100px;
+}
